@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WajeehGillani.github.io/react-multilingual-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/WajeehGillani.github.io/react-multilingual-app/static/js/main.ef65e0d3.chunk.js",
+    "main.js.map": "/WajeehGillani.github.io/react-multilingual-app/static/js/main.ef65e0d3.chunk.js.map",
+    "runtime-main.js": "/WajeehGillani.github.io/react-multilingual-app/static/js/runtime-main.8611cbc9.js",
+    "runtime-main.js.map": "/WajeehGillani.github.io/react-multilingual-app/static/js/runtime-main.8611cbc9.js.map",
+    "static/js/2.bc46e115.chunk.js": "/WajeehGillani.github.io/react-multilingual-app/static/js/2.bc46e115.chunk.js",
+    "static/js/2.bc46e115.chunk.js.map": "/WajeehGillani.github.io/react-multilingual-app/static/js/2.bc46e115.chunk.js.map",
+    "index.html": "/WajeehGillani.github.io/react-multilingual-app/index.html",
+    "precache-manifest.fd615de01f1adacbb04603b01f83cbc8.js": "/WajeehGillani.github.io/react-multilingual-app/precache-manifest.fd615de01f1adacbb04603b01f83cbc8.js",
+    "service-worker.js": "/WajeehGillani.github.io/react-multilingual-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/WajeehGillani.github.io/react-multilingual-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bc46e115.chunk.js.LICENSE.txt": "/WajeehGillani.github.io/react-multilingual-app/static/js/2.bc46e115.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/WajeehGillani.github.io/react-multilingual-app/static/media/getFetch.013f0b90.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8611cbc9.js",
+    "static/js/2.bc46e115.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ef65e0d3.chunk.js"
+  ]
+}
